@@ -6,6 +6,7 @@ resources:
     type: git
     endpoint: self
     name: Device-Lab/Device-Lab
+    ref: openocd_r
 
 trigger: 
   batch: true
